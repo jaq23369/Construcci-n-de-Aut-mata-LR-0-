@@ -1,4 +1,4 @@
-# Construcción de Autómata LR(0) — Actividad Práctica Paso 1 SLR
+# Construcción de Autómata LR(0) — Actividad Práctica 
 
 **Curso:** Compiladores 1  
 **Estudiante:** Joel Antonio Jaquez López  
@@ -59,8 +59,6 @@ La **función Cerradura** expande un conjunto de ítems con esta regla:
 | Archivo | Descripción |
 |---|---|
 | `problema2.py` | Programa principal en Python |
-| `Cerradura.ipynb` | Notebook de Jupyter con explicación didáctica |
-
 ---
 
 ### Funciones de `problema2.py`
